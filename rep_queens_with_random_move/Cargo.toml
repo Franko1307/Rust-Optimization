@@ -1,0 +1,7 @@
+[package]
+name = "rep_queens_with_random_move"
+version = "0.1.0"
+authors = ["Francisco Enrique Cordova Gonzalez <franciscogonzalez1307@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
